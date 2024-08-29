@@ -35,9 +35,4 @@ Here are some screenshots of the app in action:
 
 
 
-![Weather App Screenshot on mobile]![screenshot on mobile](https://github.com/user-attachments/assets/17718a2d-51f6-4ba6-83a0-e3b25b74377b)
-
-
-
-
 
