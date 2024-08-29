@@ -23,7 +23,7 @@ Before you start, make sure you have Node.js and npm installed on your machine. 
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-forecasting-app.git
+   git clone https://github.com/himatejagolli2267/weather-forecasting-app.git
    cd weather-forecasting-app
 
 
