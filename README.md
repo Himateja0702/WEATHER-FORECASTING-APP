@@ -26,4 +26,10 @@ Before you start, make sure you have Node.js and npm installed on your machine. 
    git clone https://github.com/himatejagolli2267/weather-forecasting-app.git
    cd weather-forecasting-app
 
+## 📸 Screenshots
+Here are some screenshots of the app in action:
+
+![Weather App Screenshot](![Screenshot 1]
+)
+
 
