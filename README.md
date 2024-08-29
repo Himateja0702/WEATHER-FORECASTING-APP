@@ -44,14 +44,6 @@ Here is thescreen shot of the Web App in mobile action:
 
 
 
-
-
-
-
-
-
-
-
 ## 📝 Development Process
 
 ### Frontend Development Process
@@ -116,5 +108,40 @@ Following this structured development process ensured that both the frontend and
 
 
 
+
+
+
+
+
+
+## 🚀 Deployment
+
+To deploy the Weather Forecasting Web App, we used **Vercel**, a popular platform for hosting frontend applications. Below are the steps to deploy your app on Vercel:
+
+1. **Create a Vercel Account**:
+   - Sign up for a free account on [Vercel](https://vercel.com).
+
+2. **Link Your GitHub Repository**:
+   - Once logged in, click on the **New Project** button.
+   - Connect your GitHub account and select the **weather-forecasting-app** repository to import it into Vercel.
+
+3. **Configure Project Settings**:
+   - Vercel will automatically detect that you’re using a React application. Review the settings:
+     - **Build Command**: `npm run build`
+     - **Output Directory**: `build`
+
+4. **Deploy the App**:
+   - Click on the **Deploy** button. Vercel will build and deploy your application.
+   - Wait for the deployment process to complete. This usually takes a few moments.
+
+5. **Access Your Deployed App**:
+   - Once deployment is complete, Vercel will provide you with a unique URL where your app is live.
+   - You can access your application at this URL.
+
+6. **Include the Deployment Link**:
+   - Add the link to your deployed app in the README file:
+   ```markdown
+   ## 🌐 Live Demo
+   Check out the live version of the Weather Forecasting Web App [here](https://weather-forecasting-jbjdj0oin-himatejagollis-projects.vercel.app/).
 
 
