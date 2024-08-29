@@ -1,0 +1,91 @@
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f4f8;
+  color: #333;
+}
+
+.App {
+  text-align: center;
+  margin: 20px auto;
+  max-width: 600px; /* Centering the app for larger screens */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+/* Heading Styles */
+h1 {
+  color: #007bff; /* A blue color for the title */
+}
+
+/* Input and Button Styles */
+input[type="text"] {
+  padding: 10px;
+  margin: 10px 0;
+  width: calc(100% - 24px); /* Full width, minus padding */
+  max-width: 300px; /* Max width for larger screens */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #007bff; /* Primary button color */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .App {
+      padding: 15px; /* Reduce padding on smaller screens */
+  }
+
+  input[type="text"] {
+      width: calc(100% - 18px); /* Full width on mobile */
+  }
+
+  button {
+      width: 100%; /* Full-width buttons on mobile */
+      padding: 12px; /* Larger padding for buttons */
+  }
+}
+
+/* Error Message Styles */
+.error {
+  color: red;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/* Loader Styles */
+.loader {
+  font-size: 20px;
+  color: #007bff;
+}
+
+/* Weather Card Styles */
+.weather-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px auto;
+  width: 100%; /* Full width on all screens */
+  max-width: 400px; /* Limit max width */
+  background-color: #f9f9f9;
+}
+
