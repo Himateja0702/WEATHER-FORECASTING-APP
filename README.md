@@ -29,7 +29,10 @@ Before you start, make sure you have Node.js and npm installed on your machine. 
 ## 📸 Screenshots
 Here are some screenshots of the app in action:
 
-![Weather App Screenshot] ![Screenshot 1](https://github.com/user-attachments/assets/690b588e-c58a-480e-b350-493ea538487a)
+![Weather App Screenshot on desktop] ![Screenshot on desktop](https://github.com/user-attachments/assets/2d15253e-fdb2-407b-a2db-dc2add3a0346)
+![Weather App Screenshot on mobile]![screenshot on mobile](https://github.com/user-attachments/assets/17718a2d-51f6-4ba6-83a0-e3b25b74377b)
+
+
 
 
 
